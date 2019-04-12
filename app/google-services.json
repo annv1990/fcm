@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1062929419371",
+    "firebase_url": "https://anjapan-2ff81.firebaseio.com",
+    "project_id": "anjapan-2ff81",
+    "storage_bucket": "anjapan-2ff81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062929419371:android:a17b073880c192eb",
+        "android_client_info": {
+          "package_name": "com.ajs.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062929419371-7lgre93utm48sfvi16obu6spmiova2q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKlYnzQV8sy6C9rL_elJh0RtKKA8iPj6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
